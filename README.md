@@ -1,7 +1,9 @@
+
 <h2 align="center">Computação Visual, Inteligencia Artificial e Cybersegurança </h2>
 
+</div>
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+<div align="left"> <img align="center" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <table align="right" height="280px">
   <tr>
     <td align="center">
@@ -172,8 +174,7 @@
     </td>
   </tr>
 </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+<br><br>
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
 <br><br>
 <p align="center">
@@ -192,9 +193,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
 
-<h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
-<br><br>
-<br>
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api?username=aureliopilartes&show_icons=true&theme=dracula">
 <div align="right">
