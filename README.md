@@ -1,10 +1,10 @@
 
 <h2 align="center">Computação Visual, Inteligencia Artificial e Cybersegurança </h2>
+<div align="center"> <img align="center" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 
 </div>
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<div align="left"> <img align="center" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table align="right" height="280px">
+<table align="center" height="280px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="65px" alt="bash icon"/><br>
