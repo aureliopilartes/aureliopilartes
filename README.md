@@ -192,7 +192,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
 
-  <summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
+<h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
+<br><br>
 <br>
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api?username=aureliopilartes&show_icons=true&theme=dracula">
