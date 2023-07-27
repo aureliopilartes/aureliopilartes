@@ -197,14 +197,8 @@
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api?username=aureliopilartes&show_icons=true&theme=dracula">
 <div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=aureliopilartes&show_icons=true&theme=dracula">
+
 </div>
 </details>
-
-<h3><p align="center">Total de visitas no perfil:</p>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/By-lucas/count.svg"/>
-</p>
-
 
 
