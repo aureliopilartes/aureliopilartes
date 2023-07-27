@@ -195,9 +195,8 @@
   <summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
 <br>
 <br><br>
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=By-Lucas&langs_count=8&theme=tokyonight&hide_border=true">
+<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api?username=aureliopilartes&show_icons=true&theme=dracula">
 <div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=aureliopilartes&show_icons=true&theme=dracula">
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=aureliopilartes&show_icons=true&theme=dracula">
 </div>
 </details>
@@ -209,4 +208,3 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliopilartes&show_icons=true&theme=dracula)  
