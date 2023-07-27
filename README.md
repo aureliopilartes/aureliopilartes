@@ -180,13 +180,13 @@
 <p align="center">
  
  
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/aur%C3%A9liopilarteslander/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   <a href="" alt="Telegram" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
   </a>
-  <a href="" alt="WhatsApp" target="_blank">
+  <a href="https://api.whatsapp.com/message/P53HHEC5QBNNM1?autoload=1&app_absent=0" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
   </a>
   <a href="" alt="Instagram" target="_blank">
