@@ -1,4 +1,4 @@
-<h2 align="center">Computação Visual e Inteligencia Artificial e Cybersegurança </h2>
+<h2 align="center">Computação Visual, Inteligencia Artificial e Cybersegurança </h2>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
@@ -21,18 +21,18 @@
       </sub>
     </td>
      <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="60px" alt="FastAPI icon"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="60px" alt="FastAPI icon"/><br>
       <sub>
         <b>
-          <pre>FastAPI</pre>
+          <pre>React JS/Native</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="Flask icon"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Flask icon"/><br>
       <sub>
         <b>
-          <pre>Flask</pre>
+          <pre>Node JS</pre>
         </b>
       </sub>
     </td>
@@ -47,42 +47,42 @@
   </tr>
   <tr>
      <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="HTML5 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="65px" alt="HTML5 icon"/><br>
       <sub>
         <b>
-          <pre>Docker</pre>
+          <pre>Tensor Flow</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=heroku" width="65px" alt="Heroku icon"/><br>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Heroku icon"/><br>
       <sub>
         <b>
-          <pre>Heroku</pre>
+          <pre>Tailwind CSS</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="CSS3 icon"/><br>
       <sub>
         <b>
-          <pre>&ensp;CSS3&ensp;</pre>
+          <pre>&ensp;SASS&ensp;</pre>
         </b>
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <img src="https://skillicons.dev/icons?i=googlecloud" width="65px" alt="Git icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;Git&emsp;</pre>
+          <pre>&emsp;Google Cloud&emsp;</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
+      <img src="https://skillicons.dev/icons?i=next" width="65px" alt="Bootstrap icon"/><br>
       <sub>
         <b>
-          <pre>Bootstrap</pre>
+          <pre>Next JS</pre>
         </b>
       </sub>
     </td>
@@ -97,10 +97,10 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="PostgreSQL icon"/><br>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="PostgreSQL icon"/><br>
       <sub>
         <b>
-          <pre>PostgreSQL</pre>
+          <pre>MongoDB</pre>
         </b>
       </sub>
     </td>
@@ -177,28 +177,36 @@
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
 <br><br>
 <p align="center">
-  <a href="https://docs.google.com/document/d/1mfNh_8FhfjjVntkqbCNTAlOUmq5YeiIX/edit?usp=sharing&ouid=101904598122336045067&rtpof=true&sd=true">
-    <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
-  </a>
-  <a href="mailto:tekertudo@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/lucastk/" alt="Linkedin" target="_blank">
+ 
+ 
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="https://t.me/tkmilionario" alt="Telegram" target="_blank">
+  <a href="" alt="Telegram" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
   </a>
-  <a href="https://wa.me/5574981199190?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
+  <a href="" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
   </a>
-  <a href="https://www.instagram.com/lucas_mnc/" alt="Instagram" target="_blank">
+  <a href="" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
 
+  <summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
+<br>
 <br><br>
-### 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Blog](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![Blog](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Blog](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Blog](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![Blog](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Blog](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=By-Lucas&langs_count=8&theme=tokyonight&hide_border=true">
+<div align="right">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=By-Lucas&show_icons=true&custom_title=By-Lucas's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=By-Lucas&theme=tokyonight&hide_border=true">
+</div>
+</details>
+
+<h3><p align="center">Total de visitas no perfil:</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/By-lucas/count.svg"/>
+</p>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliopilartes&show_icons=true&theme=dracula)  
-
